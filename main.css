@@ -1,38 +1,38 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-body{
-    background-color:#f3eae3;
+body {
+    background-color: #f3eae3;
 }
 
-.card{
+.card {
     border: 1px solid;
     width: 450px;
-    margin: 0 auto; 
+    margin: 0 auto;
     display: flex;
-    background-color:whitesmoke;
+    background-color: whitesmoke;
     margin-top: 120px;
     border-radius: 10px;
     border: none;
 
 }
 
-.section1 img{
+.section1 img {
     width: 220px;
     height: 100%;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
 
-.section2{
+.section2 {
     padding-left: 25px;
     padding-right: 25px;
 }
 
-.perf{
+.perf {
     font-family: sans-serif;
     letter-spacing: 4px;
     color: #787881;
@@ -41,63 +41,63 @@ body{
     margin-bottom: 10px;
 }
 
-.heading{
+.heading {
     margin-bottom: 12px;
     font-family: 'Fraunces', serif;
 }
 
-.description{
-    color:#787881;
+.description {
+    color: #787881;
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
     line-height: 18px;
     margin-bottom: 16px;
 }
 
-.box1{
+.box1 {
     font-size: 25px;
-    padding-right:  0px;
+    padding-right: 0px;
     color: #3d8168;
     margin-bottom: 10px;
     font-weight: bold;
     font-family: 'Fraunces', serif;
 }
 
-.box2 s{
+.box2 s {
     font-size: 10px;
     color: #787881;
     font-family: 'Fraunces', serif;
-   margin-left: 15px;
+    margin-left: 15px;
 }
 
-.box2{
+.box2 {
     margin-top: 5px;
 }
 
-.dollar{
+.dollar {
     display: flex;
     flex-wrap: wrap;
 
 }
 
-button{
-   background-color: #3d8168;
-   border-radius: 8px;
-   width: 190px;
-   height: 40px;
-   border: none;
-   color: aliceblue;
-   margin-top: 10px;
-   margin-bottom: 25px;
-   padding: 10px;
-   cursor: pointer;
+button {
+    background-color: #3d8168;
+    border-radius: 8px;
+    width: 190px;
+    height: 40px;
+    border: none;
+    color: aliceblue;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding: 10px;
+    cursor: pointer;
 }
 
-.add{
+.add {
     align-items: center;
     font-family: 'Montserrat', sans-serif;
 }
 
-.add i{
+.add i {
     padding-right: 10px;
 }
